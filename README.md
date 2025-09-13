@@ -1,4 +1,4 @@
-## Hi there 👋
+Technical leader in wargaming and simulation — uniting systems thinking, hands-on development, and AI innovation to solve complex real-world problems.
 
 <!--
 **nicholasegurley/nicholasegurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
